@@ -1,6 +1,6 @@
 name = "LAPACK_jll"
 uuid = "51474c39-65e3-53ba-86ba-03b1b862ec14"
-version = "3.11.0+0"
+version = "3.12.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,3 +13,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 JLLWrappers = "1.2.0"
 julia = "1.9"
 libblastrampoline_jll = "5.4.0"
+Libdl = "1"
+Artifacts = "1"
